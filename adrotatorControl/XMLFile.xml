@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisement>
+  <Ad>
+    <ImageUrl>1.jpg</ImageUrl>
+    <NavigateUrl>http://www.amazon.com</NavigateUrl>
+    <Impression>100</Impression>
+    <AlternateText>Image Not Found</AlternateText>
+    <keyword>Ecommerce</keyword>
+    <height>10 px</height>
+    <width> 20 px</width>
+  </Ad>
+</Advertisement>
+
